@@ -34,9 +34,3 @@ The script is fairly easy to use, simply run it using the command above and ente
 
 - Your MAC address automaticlly resets after restarting your computer so take this into consideration when spoofing.
 
-## Removal
-
-```
-sudo rm -r ~/MacSwapPy
-```
-
