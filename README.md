@@ -6,15 +6,14 @@ MacSwapPy has been developed as the successor of [MacSwap](https://github.com/To
 
 ## Usage
 
-Download and prepare the script with:
+Download with:
 ```
 git clone https://github.com/Tommrodrigues/MacSwapPy.git
 pip3 install ~/MacSwapPy/requirements.txt
 ```
 
-Run the script with:
+Run with:
 ```
-cd ~/MacSwapPy
 python3 MacSwapPy.py
 ```
 
