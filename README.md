@@ -12,7 +12,7 @@ git clone https://github.com/Tommrodrigues/MacSwapPy.git
 pip3 install ~/MacSwapPy/requirements.txt
 ```
 
-Run with:
+Run from same directory with:
 ```
 python3 MacSwapPy.py
 ```
