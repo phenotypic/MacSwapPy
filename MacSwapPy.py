@@ -33,7 +33,7 @@ if option in [1, 2]:
         list = list.stdout.decode('utf-8')
         list = re.findall('(?:[0-9a-fA-F]:?){12}', list)
         if 'ff:ff:ff:ff:ff:ff' in list: list.remove('ff:ff:ff:ff:ff:ff')
-        list.remove(currentmac)
+        if currentmac in list: list.remove(currentmac)
         if list:
             newmac = random.choice(list)
 
