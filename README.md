@@ -9,7 +9,7 @@ MacSwapPy has been developed as the successor of [MacSwap](https://github.com/To
 Download with:
 ```
 git clone https://github.com/Tommrodrigues/MacSwapPy.git
-pip3 install ~/MacSwapPy/requirements.txt
+pip3 install -r ~/MacSwapPy/requirements.txt
 ```
 
 Run from same directory with:
